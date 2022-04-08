@@ -1,0 +1,6 @@
+{
+  "name": "name",
+  "version-string": "0.1.0-dev",
+  "description": "use to control dependencies in your project",
+  "dependencies": []
+}
